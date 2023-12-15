@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /$
+Disallow: /
+Disallow: /lib/
+
+Sitemap: https://justinschwimmer.com/Sitemap.xml

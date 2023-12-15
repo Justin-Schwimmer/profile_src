@@ -1,0 +1,8 @@
+{
+    "name": "J.R.S. Portfolio",
+    "short_name": "J.R.S. Portfolio",
+    "description": "Justin R. Schwimmer's Portfolio",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}

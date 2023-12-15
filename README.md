@@ -8,29 +8,29 @@ I take pride in my ability to design and develop effective solutions for any pro
 
 My Skillset Includes:
 
-→ Lead Generation
+# Lead Generation
 
-→ Data Science Driven SEO &amp; Social Media Marketing Strategies
+# Data Science Driven SEO &amp; Social Media Marketing Strategies
 
-→ Problem Solving / Process Optimization
+# Problem Solving / Process Optimization
 
-→ Streamline Internal / External Data Flows
+# Streamline Internal / External Data Flows
 
-→ Computer Vision / AI / Image Recognition
+# Computer Vision / AI / Image Recognition
 
-→ Google Analytics
+# Google Analytics
 
-→ PPC Ad Marketing
+# PPC Ad Marketing
 
-→ Website / Print / Graphic Design
+# Website / Print / Graphic Design
 
-→ Back-End Dev.
+# Back-End Dev.
 
-→ Front-End Dev.
+# Front-End Dev.
 
-→ 3D Modeling
+# 3D Modeling
 
-→ DBA
+# DBA
 
 and More
 
